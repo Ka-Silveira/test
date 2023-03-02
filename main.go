@@ -1,10 +1,10 @@
 package main
 
 import (
-	starters "github.com/ContaAzul/ca-starters-go"
+	starters "github.com/Kananda/ca-starters-go"
 
-	"github.com/ContaAzul/ca-starters-go/database/sqlDB"
-	"github.com/ContaAzul/ca-starters-go/web/webrest"
+	"github.com/Kananda/ca-starters-go/database/sqlDB"
+	"github.com/Kananda/ca-starters-go/web/webrest"
 )
 
 func init() {

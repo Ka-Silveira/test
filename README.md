@@ -1,4 +1,4 @@
-# integration-bus-salesforce
+# test-kananda
 [![Build Status](https://jenkins.contaazul.com/buildStatus/icon?job=microservices%2Fintegration-bus-salesforce%2Fcd%2Fk8s-prod&subject=MASTER)](https://jenkins.contaazul.com/job/microservices/job/integration-bus-salesforce/job/cd/job/k8s-prod/)
 [![Lines of Code](https://ma5trv4fbpzaz3f5bsexn7hk2u0msszy.lambda-url.sa-east-1.on.aws/?project=integration-bus-salesforce&metric=ncloc)](https://sonarqube.contaazul.com/dashboard?id=com.contaazul%3Aintegration-bus-salesforce)
 [![Coverage](https://ma5trv4fbpzaz3f5bsexn7hk2u0msszy.lambda-url.sa-east-1.on.aws/?project=integration-bus-salesforce&metric=coverage)](https://sonarqube.contaazul.com/dashboard?id=com.contaazul%3Aintegration-bus-salesforce)
@@ -11,11 +11,11 @@
 
 ## Time responsável?
 
-@ContaAzul/ca-mais-painel
+@ContaAzul/kananda
 
 ## O que esse serviço faz?
 
-Responsável pela integração com o Salesforce
+Responsável pela integração com o jira
 
 #### Desenho arquitetural
 
